@@ -1,4 +1,70 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: grey;
+}
+h1 {
+    font-size: 50px;
+}
+.title-section {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.mission-head {
+    width: 50%;
+}
+.mission-head title {
+    padding-right: 300px;
+}
+img{
+    width: 300px;
+    padding-left: 150px;
+}
+.title-section h1 {
+    border-left: 4px solid red;
+    padding-left: 10px;
+}
+.mission {
+    color: orange;
+}
+.explore-btn {
+    background-color: orangered;
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+#align-center {
+    text-align: center;
+}
+.mission-section {
+    width: 80%;
+    margin: 0 auto;
+}
+.mission-stats {
+    border: 1px solid tomato;
+    padding-left: 25px;
+    padding-right: 15px;
+    margin-right: 30px;
+
+}
+.greenish-box {
+    box-shadow: 0 0 2px 1px black;
+    background-color: rgba(140, 235, 140, 0.945);
+
+}
+.greyish-box {
+    box-shadow: 0 0 2px 1px black;
+    background-color: rgb(186, 224, 186);
+
+}
+.bluish-box {
+    box-shadow: 0 0 2px 1px black;
+    background-color: rgb(117, 122, 187);
+
+}
+.size-img {
+    width: 150px;
+    display: block;
 }
