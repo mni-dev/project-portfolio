@@ -47,6 +47,7 @@ img{
     padding-left: 25px;
     padding-right: 15px;
     margin-right: 30px;
+    margin-bottom: 150px;
 
 }
 .greenish-box {
@@ -67,4 +68,14 @@ img{
 .size-img {
     width: 150px;
     display: block;
+}
+.develop-section {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.coding {
+    width: 30%;
+    padding-right: 300px;
 }
