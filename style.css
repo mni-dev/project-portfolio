@@ -7,6 +7,9 @@ body {
 h1 {
     font-size: 50px;
 }
+h2 {
+    font-size: 30px;
+}
 .title-section {
     display: flex;
     width: 80%;
@@ -61,16 +64,17 @@ h1 {
     border: 1px solid hsla(10, 40%, 89%, 0.945);
     padding-left: 30px;
     padding-right: 20px;
+    padding-top: 15px;
     padding-bottom: 30px;
     margin-right: 40px;
     margin-bottom: 150px;
-    border-radius: 10px;
-    text-align: justify;
-
+    border-radius: 15px;
 }
 .mission-stats h2 {
     color: orange;
-    font-size: 30px;
+}
+.mission-stats p {
+    text-align: justify;
 }
 .box1 {
     box-shadow: 0 0 8px 4px rgba(201, 176, 176, 0.979);;
@@ -133,12 +137,16 @@ h1 {
     margin-left: 150px;
     margin-right: 100px;
 }
-.service {
+.service-section div {
     width: 50%;
     margin-right: 100px;
 }
+.services {
+    font-size: 18px;
+}
 a.works {
     display: block;
+    font-size: 18px;
 }
 #ex-works {
     border-left: 4px solid orange;
