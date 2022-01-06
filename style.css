@@ -151,6 +151,9 @@ h2 {
 li:nth-child(odd) {
     color: tomato;
 }
+li:nth-child(even) {
+    color: orange;
+}
 a.works {
     display: block;
     font-size: 18px;
@@ -180,6 +183,6 @@ footer h1 {
 }
 footer p {
     color: grey;
-    font-size: 20px;
+    font-size: 16px;
     padding-bottom: 50px;
 }
