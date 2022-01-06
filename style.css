@@ -55,19 +55,19 @@ h2 {
     display: flex;
     width: 80%;
     margin-top: 0;
-    margin-bottom: 100px;
+    margin-bottom: 10px;
     margin-left: 150px;
     margin-right: 100px;
 }
 .mission-stats {
     width: 33%;
     border: 1px solid hsla(10, 40%, 89%, 0.945);
-    padding-left: 30px;
-    padding-right: 20px;
+    padding-left: 40px;
+    padding-right: 30px;
     padding-top: 15px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     margin-right: 40px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     border-radius: 15px;
 }
 .mission-stats h2 {
@@ -78,7 +78,7 @@ h2 {
 }
 .box1 {
     box-shadow: 0 0 8px 4px rgba(201, 176, 176, 0.979);;
-    background-color: rgba(239, 243, 239, 0.87);
+    background-color: rgba(235, 235, 231, 0.993);
 
 }
 .box2 {
@@ -88,7 +88,7 @@ h2 {
 }
 .box3 {
     box-shadow: 0 0 8px 4px rgba(201, 176, 176, 0.979);
-    background-color: rgba(235, 238, 241, 0.966);
+    background-color: rgba(249, 251, 252, 0.966);
 
 }
 .size-img {
